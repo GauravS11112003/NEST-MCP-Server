@@ -1,0 +1,10 @@
+version: "3"
+agent:
+  authtoken: 39LWPJs25k3y26EfLrXAxW4dVsk_3Uyd59noMH5gN7SNh9aBT
+tunnels:
+  saferx:
+    proto: http
+    addr: 8004
+  mcp:
+    proto: http
+    addr: 9001
