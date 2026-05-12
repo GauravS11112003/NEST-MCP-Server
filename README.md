@@ -1,4 +1,4 @@
-# 🟧 NEST: Newborn & Maternal Safe Transition
+# NEST: Newborn & Maternal Safe Transition
 
 ![NEST Architecture](nest_architecture.png)
 
