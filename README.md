@@ -1,7 +1,5 @@
 # NEST: Newborn & Maternal Safe Transition
 
-# Link - https://www.youtube.com/watch?v=XNFU0ZbqBhs&t=3s
-
 ![NEST Architecture](nest_architecture.png)
 
 **NEST** is an advanced A2A (Agent-to-Agent) clinical orchestrator built for the **Prompt Opinion** platform (Agents Assemble Hackathon 2026). It solves one of the most dangerous gaps in healthcare: the fragmented postpartum handoff between maternal and infant charts.
